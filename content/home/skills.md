@@ -18,18 +18,32 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python" 
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "project-diagram"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Network visualisation"
+  description = "Cytoscape" 
+  
+  [[feature]]
+  icon = "edit"
+  icon_pack = "fas"
+  name = "LateX"
+  description = ""
+  
+[[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Windows, Linux, Mac OS"
 
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Greek, English, Norwegian"
+  
 +++
