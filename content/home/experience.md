@@ -17,13 +17,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "PhD candidate"
+  company = "Norwegian University of Science and Technology"
+  company_url = ""
+  location = "Trondheim, Norway"
+  date_start = "2019-08-01"
+  date_end = ""
+  description = """   
+  Multiscale Logical Model Simulations for Data Analysis and Experimental Design
+  """
+
 [[experience]]
   title = "MSc student"
   company = "Norwegian University of Science and Technology"
   company_url = ""
   location = "Trondheim, Norway"
-  date_start = "Aug 2017"
-  date_end = "Jun 2019"
+  date_start = "2017-08-14"
+  date_end = "2019-06-07"
   description = """   
   Signaling Pathway Modules: network organization elements for understanding cancer and designing therapies.
   
@@ -39,8 +51,8 @@ date_format = "Jan 2006"
   company = "Agricultural University of Athens"
   company_url = ""
   location = "Athens, Greece"
-  date_start = "Sep 2011"
-  date_end = "Sep 2016"
+  date_start = "2015-09-01"
+  date_end = "2016-10-26"
   description = """   
   Isolation and characterization of lytic, marine bacteriophages as  candidates of phage therapy in aquaculture.
   
@@ -55,8 +67,8 @@ date_format = "Jan 2006"
   company = "Molecular Biology lab, Agricultural University of Athens"
   company_url = ""
   location = "Athens, Greece"
-  date_start = "Jun 2015"
-  date_end = "Sep 2015"
+  date_start = "2015-06-01"
+  date_end = "2015-09-01"
   description = """     
   * Fundamental molecular biology techniques.
   * Bioinformatics tools for viral genome annotation, comparative genomics and phylogenetic studies.
@@ -68,8 +80,8 @@ date_format = "Jan 2006"
   company = "National Hellenic Research Foundation, Athens"
   company_url = ""
   location = "Athens, Greece"
-  date_start = "Jun 2014"
-  date_end = "Sep 2014"
+  date_start = "2014-06-01"
+  date_end = "2014-09-01"
   description = """     
   * Emulsions, nanoemulsions and microemulsions formation.
   * Effect of composition on structure and efﬁcacy on microemulsions.
