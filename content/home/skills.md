@@ -27,8 +27,8 @@ subtitle = ""
 [[feature]]
   icon = "project-diagram"
   icon_pack = "fas"
-  name = "Network visualisation"
-  description = "Cytoscape" 
+  name = "Network analysis"
+  description = "Cytoscape, CellDesigner" 
   
   [[feature]]
   icon = "edit"
@@ -39,11 +39,12 @@ subtitle = ""
 [[feature]]
   icon = "desktop"
   icon_pack = "fas"
-  name = "Windows, Linux, Mac OS"
+  name = "Linux, Mac OS, Windows"
 
 [[feature]]
   icon = "language"
   icon_pack = "fas"
-  name = "Greek, English, Norwegian"
+  name = "Languages"
+description = "Greek, English, Norwegian"
   
 +++
