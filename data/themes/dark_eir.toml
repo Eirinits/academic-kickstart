@@ -1,13 +1,13 @@
 # Theme metadata
-name = "Dark"
+name = "Dark_eir"
 
 # Is theme light or dark?
 light = false
 
 # Primary
 primary = "hsl(339, 90%, 68%)"
-primary_light = "hsl(339, 90%, 78%)"
-primary_dark = "hsl(339, 90%, 58%)"
+primary_light = "rgb(81, 75, 75)"
+primary_dark = "rgb(45, 42, 42)"
 
 # Menu
 menu_primary = "rgb(20, 22, 34)"
