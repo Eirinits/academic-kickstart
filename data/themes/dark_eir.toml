@@ -1,20 +1,19 @@
 # Theme metadata
-name = "Dark_eir"
+name = "alison"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
-primary = "hsl(339, 90%, 68%)"
-primary_light = "rgb(81, 75, 75)"
-primary_dark = "rgb(45, 42, 42)"
+primary = "#E13D3D"
 
 # Menu
-menu_primary = "rgb(20, 22, 34)"
-menu_text = "rgba(255,255,255,0.6)"
-menu_text_active = "rgba(255,255,255,1)"
-menu_title = "#fff"
+menu_primary = "#fbf9f4"
+menu_text = "#333"
+menu_text_active = "#d03b39"
+menu_title = "#333"
 
-# Home sections
-home_section_odd = "rgb(81, 75, 75)"
-home_section_even = "rgb(45, 42, 42)"
+# Backgrounds
+background = "#fbf9f4"
+home_section_odd = "#fbf9f4"
+home_section_even = "#fbf9f4"
