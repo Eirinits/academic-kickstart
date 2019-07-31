@@ -59,7 +59,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/eirini-tsirvouli-a393229b/
-
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6456-6463
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
@@ -70,6 +72,4 @@ email: ""
 #- Visitors
 ---
 
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a Ph.D. candidate in Computational Biology at NTNU since August 2019. My work involves multiscale logical modeling used in data analysis and experimental design, with a special focus on pro-inflammation models used for the simulation of the single and combinatorial effect of proinflammation inhibitors, and the modeling of keratinocyte cell systems for simulating the effect of experimental perturbations done on them.
