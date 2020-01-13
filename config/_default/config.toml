@@ -27,7 +27,6 @@ disqusShortname = ""
 
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
-themesDir = "/home/eirini/Documents/Git/My_Website/themes"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
