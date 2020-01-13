@@ -45,6 +45,6 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "Languages"
-description = "Greek, English, Norwegian"
+description = "Greek, English, Norwegian, Spanish"
   
 +++
