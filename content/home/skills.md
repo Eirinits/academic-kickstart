@@ -33,7 +33,7 @@ subtitle = ""
   [[feature]]
   icon = "edit"
   icon_pack = "fas"
-  name = "LateX"
+  name = "LaTeX"
   description = ""
   
 [[feature]]

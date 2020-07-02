@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = ""
   description = """   
-  Multiscale Logical Model Simulations for Data Analysis and Experimental Design
+  Building, a nalysis and optimization of logical models of cell fate decision mechanisms in normal and diseased human cells
   """
   
 [[experience]]
