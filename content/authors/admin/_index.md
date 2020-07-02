@@ -72,4 +72,4 @@ email: ""
 #- Visitors
 ---
 
-I am a Ph.D. candidate in Computational Biology at NTNU since August 2019. My work involves multiscale logical modeling used in data analysis and experimental design, with a special focus on pro-inflammation models used for the simulation of the single and combinatorial effect of proinflammation inhibitors, and the modeling of keratinocyte cell systems for simulating the effect of experimental perturbations done on them.
+I am a Ph.D. candidate in Computational Biology at NTNU since August 2019. My work involves the building and analysis of logical models of various biological systems, with a special focus on pro-inflammation and cell-type specific models. Models are used in data analysis and experimental design, as well as the simulation of the single and combinatorial effect of proinflammation inhibitors. Additionally, I am exploring how various omics (genome wide and targeted) data can be used in model calibration and specification.
