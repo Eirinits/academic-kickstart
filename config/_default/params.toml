@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "dark_eir"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "eirinitsirvouli@gmail.com"
 phone = "+47 46184389"
-address = "Realfagbygget, Høgskoleringen 5, 7491 Trondheim, Norway"
+address = "DU2-187, Realfagbygget, Høgskoleringen 5, 7491 Trondheim, Norway"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

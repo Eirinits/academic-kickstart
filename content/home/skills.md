@@ -33,7 +33,7 @@ subtitle = ""
   [[feature]]
   icon = "edit"
   icon_pack = "fas"
-  name = "LateX"
+  name = "LaTeX"
   description = ""
   
 [[feature]]
@@ -45,6 +45,6 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "Languages"
-description = "Greek, English, Norwegian"
+description = "Greek, English, Norwegian, Spanish"
   
 +++
